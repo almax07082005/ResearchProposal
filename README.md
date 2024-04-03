@@ -15,3 +15,7 @@ I added .gitignore file, which ignores all files except source ones, such as ```
     - create a pull request;
     - when pull request will be approved, it will be automatically merged with main branch and your temporary branch will be removed.
 4) Wait until approvance.
+
+## Suggestions
+
+I strongly recommend you use Github Desktop because it contains all necessary features to work with branches and pull requests, otherwise you will need to learn branch creation, stashes, and etc.
